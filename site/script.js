@@ -86,7 +86,8 @@ document.addEventListener("keydown", (e) => {
     e.altKey ||
     e.ctrlKey ||
     e.metaKey ||
-    /INPUT|TEXTAREA|SELECT|BUTTON|A/.test(e.target.tagName) ||
+    /^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName) ||
+    (e.key === " " && /^(BUTTON|A)$/.test(e.target.tagName)) ||
     e.target.isContentEditable
   )
     return;
