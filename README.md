@@ -6,7 +6,7 @@
 
 - 正式網站：https://inpatient-diabetes-tech-2026.pages.dev/
 - PDF：https://inpatient-diabetes-tech-2026.pages.dev/inpatient-diabetes-technology.pdf
-- 主要來源：Olsen MT, et al. *An International Position Statement on Practical Approaches for Inpatient Continuous Glucose Monitoring, Insulin Pumps, and Automated Insulin Delivery Systems in Adults*. Diabetes Care. 2026. DOI: [10.2337/dci26-0091](https://doi.org/10.2337/dci26-0091).
+- 主要來源：Olsen MT, et al. _An International Position Statement on Practical Approaches for Inpatient Continuous Glucose Monitoring, Insulin Pumps, and Automated Insulin Delivery Systems in Adults_. Diabetes Care. 2026. DOI: [10.2337/dci26-0091](https://doi.org/10.2337/dci26-0091).
 - 同篇論文補充資料：[10.2337/figshare.32648427](https://doi.org/10.2337/figshare.32648427)，僅第 11 張簡要摘要其原則。
 
 ## 使用
