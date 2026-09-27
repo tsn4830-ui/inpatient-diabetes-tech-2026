@@ -1,0 +1,74 @@
+[
+  {
+    "key": "graphical-abstract",
+    "page": 1,
+    "box": [61, 277, 544, 602],
+    "label": "Graphical abstract",
+    "title": "原文圖像摘要",
+    "after": 3
+  },
+  {
+    "key": "table-1",
+    "page": 4,
+    "box": [47, 515, 535, 757],
+    "label": "Table 1",
+    "title": "低血糖與高血糖風險因子",
+    "after": 6
+  },
+  {
+    "key": "figure-1",
+    "page": 6,
+    "box": [48, 70, 375, 397],
+    "label": "Figure 1",
+    "title": "住院 CGM 指標與目標",
+    "after": 8
+  },
+  {
+    "key": "figure-2",
+    "page": 7,
+    "box": [60, 70, 379, 264],
+    "label": "Figure 2",
+    "title": "胰島素調整的三個血糖區間",
+    "after": 10
+  },
+  {
+    "key": "table-2",
+    "page": 7,
+    "box": [60, 506, 547, 766],
+    "label": "Table 2",
+    "title": "Non-AID pump 與 AID 的胰島素治療",
+    "after": 14
+  },
+  {
+    "key": "table-3",
+    "page": 8,
+    "box": [47, 71, 535, 249],
+    "label": "Table 3",
+    "title": "由 pump／AID 轉換至注射治療",
+    "after": 15
+  },
+  {
+    "key": "table-4",
+    "page": 9,
+    "box": [60, 71, 547, 339],
+    "label": "Table 4",
+    "title": "住院裝置照護工作流程",
+    "after": 24
+  },
+  {
+    "key": "figure-3",
+    "page": 9,
+    "box": [60, 547, 547, 763],
+    "label": "Figure 3",
+    "title": "住院糖尿病裝置管理流程",
+    "after": 24
+  },
+  {
+    "key": "table-5",
+    "page": 10,
+    "box": [47, 522, 535, 759],
+    "label": "Table 5",
+    "title": "電子病歷的記錄項目",
+    "after": 25
+  }
+]

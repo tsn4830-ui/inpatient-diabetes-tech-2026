@@ -44,6 +44,8 @@ function show(n, updateHash = true) {
   });
   document.querySelector("#notes-content").textContent =
     slideData[current]?.notes || "正在載入教學備註…";
+  stage.scrollTop = 0;
+  stage.scrollLeft = 0;
   if (updateHash) history.replaceState(null, "", `#${current + 1}`);
   if (innerWidth <= 700) window.scrollTo({ top: 0, behavior: "instant" });
 }
@@ -83,6 +85,7 @@ document.addEventListener("fullscreenchange", () => {
 document.addEventListener("keydown", (e) => {
   if (
     toc.open ||
+    document.querySelector("#figure-dialog").open ||
     e.altKey ||
     e.ctrlKey ||
     e.metaKey ||
@@ -149,3 +152,30 @@ fetch("slides.json")
   });
 fit();
 show(readHash(), false);
+
+const figureDialog = document.querySelector("#figure-dialog");
+const figureLarge = document.querySelector("#figure-large");
+let figureZoom = 100;
+function setFigureZoom(value) {
+  figureZoom = Math.max(100, Math.min(300, value));
+  figureLarge.style.width = `${figureZoom}%`;
+  document.querySelector("#zoom-level").textContent = `${figureZoom}%`;
+  document.querySelector("#zoom-out").disabled = figureZoom === 100;
+  document.querySelector("#zoom-in").disabled = figureZoom === 300;
+}
+document.querySelectorAll(".figure-open").forEach((button) => {
+  button.addEventListener("click", () => {
+    figureLarge.src = button.dataset.src;
+    figureLarge.alt = button.dataset.title;
+    document.querySelector("#figure-dialog-title").textContent =
+      button.dataset.title;
+    setFigureZoom(100);
+    figureDialog.showModal();
+    document.querySelector("#figure-scroll").scrollTo(0, 0);
+  });
+});
+document.querySelector("#figure-close").onclick = () => figureDialog.close();
+document.querySelector("#zoom-in").onclick = () =>
+  setFigureZoom(figureZoom + 50);
+document.querySelector("#zoom-out").onclick = () =>
+  setFigureZoom(figureZoom - 50);

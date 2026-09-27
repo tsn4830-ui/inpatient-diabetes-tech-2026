@@ -3,10 +3,11 @@
     "section": "2026 ADA–EASD POSITION STATEMENT",
     "title": "住院糖尿病科技<br>臨床實戰",
     "lead": "CGM・Insulin pump・Automated insulin delivery",
-    "body": "<div class=\"cover-bottom\"><div class=\"cover-line\"></div><p>從入院選擇、即時判讀到安全出院<br>非重症住院成人｜醫師教學</p><strong>光田新陳代謝科｜曾士婷醫師</strong></div><div class=\"cover-symbol\"><span>CGM</span><span>PUMP</span><span>AID</span></div>",
+    "body": "<div class=\"cover-bottom\"><div class=\"cover-line\"></div><p>從入院選擇、即時判讀到安全出院<br>非重症住院成人｜醫師教學</p><strong>光田新陳代謝科｜曾士婷醫師</strong></div><figure class=\"cover-photo\"><img src=\"assets/photos/cgm.webp\" alt=\"上臂配戴的 FreeStyle Libre 葡萄糖感測器\"><figcaption>CGM 配戴示意<br><a href=\"https://commons.wikimedia.org/wiki/File:FreeStyle_libre_am_Oberarm_und_Ausleseger%C3%A4t-6.jpg\" target=\"_blank\" rel=\"noopener\">Thirunavukkarasye-Raveendran</a> · <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"noopener\">CC BY 4.0</a><br>等比例縮圖，未裁切。</figcaption></figure>",
     "pages": [1, 2],
-    "notes": "以 2026 ADA–EASD 國際立場聲明為主要來源。涵蓋 CGM、非自動胰島素幫浦與自動胰島素輸注系統。圖表均為依原文重新編排的教學視覺，並非原圖複製。",
-    "kind": "cover"
+    "notes": "以 2026 ADA–EASD 國際立場聲明為主要來源。涵蓋 CGM、非自動胰島素幫浦與自動胰島素輸注系統。中文教學版面之外，另加入原文所有圖表作逐項對照。封面照片是 CGM 配戴示意，不代表特定型號的住院使用或影像檢查許可。",
+    "kind": "cover",
+    "originalSlideNumber": 1
   },
   {
     "section": "導讀｜適用範圍",
@@ -15,7 +16,8 @@
     "body": "<div class=\"cards\"><article class=\"card \"><h3>適用族群</h3><p>住院成人、非重症照護<br>涵蓋第 1 型與第 2 型糖尿病</p></article><article class=\"card \"><h3>證據分級</h3><p>沿用原文 A、B、C、E<br><b>E = 專家意見</b></p></article><article class=\"card \"><h3>落地條件</h3><p>裝置＋標準流程＋受訓團隊<br>持續評估病況與操作能力</p></article></div><div class=\"callout\">研究結果不一致：CGM 的效益與 insulin titration protocol、團隊訓練和執行方式有關。</div>",
     "pages": [2, 3, 4, 11],
     "notes": "本文由 26 位專家形成共識，獲 ADA、EASD、JBDS-IP 與 Australian Diabetes Society 背書。六項 RCT 統合分析中 TIR 約增加 7 個百分點，但研究異質性大；TIGHT 與 Thabit 試驗未見顯著血糖效益，DIATEC 結合調整流程與住院糖尿病團隊則約增加 15 個百分點。不能將裝置本身視為保證改善結果。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 2
   },
   {
     "section": "導讀｜九大主題",
@@ -24,7 +26,19 @@
     "body": "<div class=\"topics\"><div><b>1</b><span>病人選擇</span></div><div><b>2</b><span>住院 CGM 目標</span></div><div><b>3</b><span>CGM 引導胰島素調整</span></div><div><b>4</b><span>手術前後照護</span></div><div><b>5</b><span>CGM 警報設定</span></div><div><b>6</b><span>人員訓練與工作流程</span></div><div><b>7</b><span>電子病歷整合</span></div><div><b>8</b><span>影像檢查</span></div><div><b>9</b><span>出院計畫</span></div></div>",
     "pages": [1, 2],
     "notes": "這九個主題對應原文九節。建議以病人流程串聯教學：入院評估 → 每日照護 → 手術或檢查 → 出院銜接。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 3
+  },
+  {
+    "section": "原文圖表｜GRAPHICAL ABSTRACT",
+    "title": "Graphical abstract｜原文圖像摘要",
+    "lead": "原文完整圖表 · 九大主題與住院 CGM 目標的原文總覽。",
+    "body": "<figure class=\"original-figure\"><button class=\"figure-open\" data-src=\"assets/originals/graphical-abstract.png\" data-title=\"Graphical abstract｜原文圖像摘要\" aria-label=\"放大 Graphical abstract\"><img src=\"assets/originals/graphical-abstract.png\" alt=\"原文 Graphical abstract：原文圖像摘要，保留完整標題、圖說與註解\"></button><figcaption>點選圖表可放大檢視 · <a href=\"https://inpatient-diabetes-tech-2026.pages.dev/assets/originals/graphical-abstract.png\" target=\"_blank\" rel=\"noopener\">開啟高解析原圖 ↗</a></figcaption></figure>",
+    "pages": [1],
+    "notes": "九大主題與住院 CGM 目標的原文總覽。 原始內容取自使用者上傳的 dci260091.pdf，完整保留此圖表區域；僅移除圖表以外的頁面內容。英文標籤與原文中的排版／文字保持原樣。© 2026 ADA／EASD。此原圖表不套用照片的 Creative Commons 授權。",
+    "kind": "source-slide",
+    "sourceFigure": "Graphical abstract",
+    "asset": "assets/originals/graphical-abstract.png"
   },
   {
     "section": "01｜SELECTION",
@@ -33,7 +47,8 @@
     "body": "<div class=\"cards\"><article class=\"card \"><h3>CGM｜B</h3><p>病人<b>或醫療人員</b>能安全支援使用，即應延續。</p></article><article class=\"card \"><h3>Pump／AID｜C</h3><p>病人能安全自行管理才延續；<b>每次接觸</b>重新評估能力。</p></article></div><div class=\"flow\"><article><span>1</span><h3>確認裝置</h3><p>型號、耗材、操作能力</p></article><article><span>2</span><h3>共享資料</h3><p>醫療人員能看見血糖／胰島素資料</p></article><article><span>3</span><h3>共同照護</h3><p>必要時仍以院內 POC 驗證</p></article></div>",
     "pages": [4, 5],
     "notes": "原文鼓勵病人共享資料，並告知 POC 仍可能與 CGM 並用。新啟用 CGM 可行，宜有糖尿病團隊或專科建議（B）；在未用過裝置者新啟用 pump／AID 較複雜，須與住院糖尿病團隊或專科合作（E）。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 4
   },
   {
     "section": "01｜SELECTION",
@@ -42,7 +57,8 @@
     "body": "<div class=\"cards\"><article class=\"card \"><h3>藥物與事件｜B</h3><p>住院前使用胰島素或易致低血糖藥物；住院新開始胰島素；反覆或本次住院低血糖。</p></article><article class=\"card \"><h3>易感族群｜B</h3><p>低血糖不自覺、腎功能損傷、年長、多重共病、進食不佳等。</p></article><article class=\"card \"><h3>認知功能障礙｜E</h3><p>若醫療人員能管理 CGM 並取得資料，仍可考慮使用。</p></article></div><div class=\"callout\">入院時建立風險清單；病況、營養或類固醇劑量改變時再評估。</div>",
     "pages": [4, 5],
     "notes": "Table 1 另列肝病、腦中風史、過度積極治療、POC／給藥／供餐時序不合、頻繁補打、夜間 correction、低 BMI、低 C-peptide 等。最後的再評估提醒是依風險因子整理的教學實作方式。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 5
   },
   {
     "section": "01｜SELECTION",
@@ -51,7 +67,19 @@
     "body": "<div class=\"cards\"><article class=\"card \"><h3>基礎風險｜C</h3><p>入院前使用胰島素<br>多重嚴重共病<br><b>HbA1c >9%</b></p></article><article class=\"card \"><h3>類固醇｜E</h3><p>既有糖尿病：prednisolone 等效量 <b>>10 mg/day</b><br>無既有糖尿病、新發高血糖：<b>>30 mg/day</b></p></article><article class=\"card \"><h3>營養支持｜E</h3><p>接受腸道或靜脈營養的糖尿病住院病人。</p></article></div><div class=\"callout\">類固醇兩種情境均須同時有：反覆測得 glucose >180 mg/dL。</div>",
     "pages": [5],
     "notes": "類固醇條件指持續全身性使用，數字為 prednisolone equivalents。不要省略「反覆 >180 mg/dL」的條件；並非單看類固醇劑量即可判定。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 6
+  },
+  {
+    "section": "原文圖表｜TABLE 1",
+    "title": "Table 1｜低血糖與高血糖風險因子",
+    "lead": "原文完整圖表 · 保留三欄全部風險因子，包含低、高血糖共同風險。",
+    "body": "<figure class=\"original-figure\"><button class=\"figure-open\" data-src=\"assets/originals/table-1.png\" data-title=\"Table 1｜低血糖與高血糖風險因子\" aria-label=\"放大 Table 1\"><img src=\"assets/originals/table-1.png\" alt=\"原文 Table 1：低血糖與高血糖風險因子，保留完整標題、圖說與註解\"></button><figcaption>點選圖表可放大檢視 · <a href=\"https://inpatient-diabetes-tech-2026.pages.dev/assets/originals/table-1.png\" target=\"_blank\" rel=\"noopener\">開啟高解析原圖 ↗</a></figcaption></figure>",
+    "pages": [4],
+    "notes": "保留三欄全部風險因子，包含低、高血糖共同風險。 原始內容取自使用者上傳的 dci260091.pdf，完整保留此圖表區域；僅移除圖表以外的頁面內容。英文標籤與原文中的排版／文字保持原樣。© 2026 ADA／EASD。此原圖表不套用照片的 Creative Commons 授權。",
+    "kind": "source-slide",
+    "sourceFigure": "Table 1",
+    "asset": "assets/originals/table-1.png"
   },
   {
     "section": "01｜SELECTION",
@@ -59,8 +87,9 @@
     "lead": "先處理臨床狀態，再安排安全的治療替代。",
     "body": "<div class=\"split\"><div><div class=\"cards\"><article class=\"card danger\"><h3>主要禁忌情境</h3><p>DKA／HHS；病人與團隊無法安全管理；耗材不足。</p></article><article class=\"card warm\"><h3>裝置與程序限制</h3><p>特定影像檢查；干擾 CGM 準確度的藥物或病況。</p></article></div></div><div class=\"feature\"><small>意識障礙的例外</small><h3>CGM 可由團隊接手</h3><p>若醫療人員能管理裝置且能取得資料，可延續 CGM。</p><p>此例外不能直接套用到病人自行操作 pump／AID。</p></div></div>",
     "pages": [5],
-    "notes": "原文意識障礙條件排除麻醉情境，麻醉應依 perioperative 章節處理。DKA／HHS 為列出的禁忌；不把本文外推成重症 CGM 使用指引。停用 pump 前須安排替代胰島素，參見第 15 張與 Table 3。",
-    "kind": ""
+    "notes": "原文意識障礙條件排除麻醉情境，麻醉應依 perioperative 章節處理。DKA／HHS 為列出的禁忌；不把本文外推成重症 CGM 使用指引。停用 pump 前須安排替代胰島素，參見第 20 張與 Table 3。",
+    "kind": "",
+    "originalSlideNumber": 7
   },
   {
     "section": "02｜TARGETS",
@@ -69,7 +98,19 @@
     "body": "<div class=\"metrics\"><div class=\"metric primary\"><span>TIR · 70–180 mg/dL</span><b>>60<em>%</em></b><small>目標範圍內時間</small></div><div class=\"metric\"><span>TAR · >180 mg/dL</span><b><25<em>%</em></b><small>高血糖時間</small></div><div class=\"metric warm\"><span>TAR · >250 mg/dL</span><b><5<em>%</em></b><small>極高血糖時間</small></div><div class=\"metric warm\"><span>TNL · 70–100 mg/dL</span><b><15<em>%</em></b><small>接近低血糖時間</small></div><div class=\"metric danger\"><span>TBR · <70 mg/dL</span><b>0<em>%</em></b><small>低血糖時間</small></div></div><div class=\"callout\">TIR、TAR、TBR 目標：E；TNL 目標：C。須依個別病況調整。</div>",
     "pages": [5, 6],
     "notes": "Adapted from Figure 1，重新設計為獨立指標卡。TAR >250 包含於 TAR >180；TNL 包含於 TIR。這些是重疊指標，不能相加成 100%。住院不必等待門診常用的 14 天資料才做每日決策。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 8
+  },
+  {
+    "section": "原文圖表｜FIGURE 1",
+    "title": "Figure 1｜住院 CGM 指標與目標",
+    "lead": "原文完整圖表 · 完整保留原文血糖區間、百分比與時間目標。",
+    "body": "<figure class=\"original-figure\"><button class=\"figure-open\" data-src=\"assets/originals/figure-1.png\" data-title=\"Figure 1｜住院 CGM 指標與目標\" aria-label=\"放大 Figure 1\"><img src=\"assets/originals/figure-1.png\" alt=\"原文 Figure 1：住院 CGM 指標與目標，保留完整標題、圖說與註解\"></button><figcaption>點選圖表可放大檢視 · <a href=\"https://inpatient-diabetes-tech-2026.pages.dev/assets/originals/figure-1.png\" target=\"_blank\" rel=\"noopener\">開啟高解析原圖 ↗</a></figcaption></figure>",
+    "pages": [6],
+    "notes": "完整保留原文血糖區間、百分比與時間目標。 原始內容取自使用者上傳的 dci260091.pdf，完整保留此圖表區域；僅移除圖表以外的頁面內容。英文標籤與原文中的排版／文字保持原樣。© 2026 ADA／EASD。此原圖表不套用照片的 Creative Commons 授權。",
+    "kind": "source-slide",
+    "sourceFigure": "Figure 1",
+    "asset": "assets/originals/figure-1.png"
   },
   {
     "section": "02｜TARGETS",
@@ -78,7 +119,8 @@
     "body": "<div class=\"range-labels\"><span>70</span><span>100</span><span>180 mg/dL</span></div><div class=\"range\"><div>TNL<br><strong>70–100</strong></div><div>TIR 的其餘範圍<br><strong>100–180</strong></div></div><div class=\"range-bracket\">TIR 70–180 mg/dL</div><div class=\"cards\"><article class=\"card \"><h3>同時看兩件事</h3><p>TIR >60% 的同時，仍要把 TNL 控制在 <15%。</p></article><article class=\"card \"><h3>每日看趨勢</h3><p>住院病況和攝食快速改變；依每日資料調整，不沿用門診長期報表思維。</p></article></div>",
     "pages": [5, 6],
     "notes": "區間圖為概念示意，區塊寬度不代表病人資料或建議時間比例。TNL 用來提醒即將發生低血糖的風險，不應把 TNL 70–100 直接稱為已發生低血糖。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 9
   },
   {
     "section": "03｜TITRATION",
@@ -87,7 +129,19 @@
     "body": "<div class=\"flow\"><article><span>1</span><h3>先驗證</h3><p>準確度、症狀與 POC 是否一致</p></article><article><span>2</span><h3>看完整時段</h3><p>血糖曲線、飲食與胰島素給藥時序</p></article><article><span>3</span><h3>分項調整</h3><p>Basal、prandial、correction</p></article><article><span>4</span><h3>每天回顧</h3><p>依標準 protocol 及臨床判斷</p></article></div><div class=\"callout\">使用標準化 CGM-based insulin protocol：A。用於給藥的 CGM 應符合 iCGM 標準：E。</div>",
     "pages": [5, 6, 9],
     "notes": "本文推薦 Supplementary Material 2 作為流程範例，其完整驗證族群為住院第 2 型糖尿病。不可將其稱為已驗證的第 1 型糖尿病 protocol。沒有足夠證據支持在住院單憑 trend arrows 任意調整劑量。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 10
+  },
+  {
+    "section": "原文圖表｜FIGURE 2",
+    "title": "Figure 2｜胰島素調整的三個血糖區間",
+    "lead": "原文完整圖表 · 完整保留原文調整區間與 increase／decrease insulin 示意。",
+    "body": "<figure class=\"original-figure\"><button class=\"figure-open\" data-src=\"assets/originals/figure-2.png\" data-title=\"Figure 2｜胰島素調整的三個血糖區間\" aria-label=\"放大 Figure 2\"><img src=\"assets/originals/figure-2.png\" alt=\"原文 Figure 2：胰島素調整的三個血糖區間，保留完整標題、圖說與註解\"></button><figcaption>點選圖表可放大檢視 · <a href=\"https://inpatient-diabetes-tech-2026.pages.dev/assets/originals/figure-2.png\" target=\"_blank\" rel=\"noopener\">開啟高解析原圖 ↗</a></figcaption></figure>",
+    "pages": [7],
+    "notes": "完整保留原文調整區間與 increase／decrease insulin 示意。 原始內容取自使用者上傳的 dci260091.pdf，完整保留此圖表區域；僅移除圖表以外的頁面內容。英文標籤與原文中的排版／文字保持原樣。© 2026 ADA／EASD。此原圖表不套用照片的 Creative Commons 授權。",
+    "kind": "source-slide",
+    "sourceFigure": "Figure 2",
+    "asset": "assets/originals/figure-2.png"
   },
   {
     "section": "03｜TITRATION",
@@ -96,7 +150,8 @@
     "body": "<div class=\"cards\"><article class=\"card \"><h3>Rule of the lowest</h3><p>同一調整時段同時出現低、高血糖，且達 protocol 門檻時，優先套用低值規則。</p></article><article class=\"card \"><h3>Rule of the extremes</h3><p>先處理偏離預定調整範圍更遠的極端區間，再看鄰近區間。</p></article><article class=\"card \"><h3>每日回顧</h3><p>以過去 24 小時 CGM 評估 basal、餐時與矯正劑量。</p></article></div><div class=\"callout\">本網站呈現原則；實際劑量表請開啟原文補充資料，搭配院內流程執行。</div>",
     "pages": [5, 6],
     "notes": "補充資料 2，PDF 第 2 頁：這套 CGM-based protocol 僅在住院第 2 型糖尿病驗證。此頁為額外查核的原論文補充資料摘要，未複製完整劑量表。第一規則優先於第二規則。",
-    "kind": "supplement"
+    "kind": "supplement",
+    "originalSlideNumber": 11
   },
   {
     "section": "03｜TITRATION",
@@ -105,7 +160,8 @@
     "body": "<div class=\"split\"><div class=\"feature\"><small>攝食足夠、TDD 已知</small><h3 class=\"huge\">40%</h3><p>約以總日胰島素劑量的 40%<br>作餐時胰島素，再分配至各餐。</p></div><div><div class=\"cards\"><article class=\"card \"><h3>進食極少</h3><p>可能僅需很少、甚至不需餐時胰島素。</p></article><article class=\"card \"><h3>需求提高</h3><p>類固醇、營養支持或壓力性高血糖者，餐時占比可能需 50–60%。</p></article></div></div></div><div class=\"callout\">以上為原文估算建議（C），不能取代個別攝食與血糖評估。</div>",
     "pages": [6],
     "notes": "若總日劑量未知，原文指向 Supplementary Material 2。此處的「不需」僅指餐時胰島素，不代表可停用所有胰島素。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 12
   },
   {
     "section": "03｜TITRATION",
@@ -114,16 +170,29 @@
     "body": "<div class=\"dose-pair\"><article><span>Rapid-acting insulin</span><strong>>3 <small>h</small></strong><p>距上次速效胰島素給藥</p></article><article><span>Regular human insulin</span><strong>>4 <small>h</small></strong><p>距上次 regular insulin 給藥</p></article></div><div class=\"callout\">補打前確認時間與已給劑量；高值警報不等於立刻再打一劑。（E）</div>",
     "pages": [7, 8],
     "notes": "嚴格保留原文 more than 3 h／>4 h，而非 ≥3 h／≥4 h。對速效 correction 的判斷，上一劑指前一次 rapid-acting insulin，不只前一次 correction dose。Pump／AID 的額外劑量依 pump 與既定流程處理。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 13
   },
   {
     "section": "03｜PUMP / AID",
     "title": "延續 pump／AID：保持模式與責任清楚",
     "lead": "非自動幫浦與 AID 的調整方式不同。",
-    "body": "<div class=\"cards\"><article class=\"card \"><h3>Non-AID pump｜C</h3><p>反覆臨床評估，視需求調整 basal rate 與餐時劑量；住院調整尚缺已驗證指引。</p></article><article class=\"card \"><h3>AID｜C</h3><p>通常延續自動模式；除餐時輸入外，盡量減少額外人工介入。</p></article><article class=\"card \"><h3>需求改變時</h3><p>無進食或低血糖風險時，可考慮提高目標或較保守模式；依裝置特性判斷。</p></article></div><div class=\"callout\">額外胰島素原則上透過 pump 給予。出現禁忌或需求超出 AID 能力時，評估改模式或轉換治療。</div>",
+    "body": "<div class=\"photo-layout\"><figure><img src=\"assets/photos/pump.webp\" alt=\"胰島素幫浦、儲藥筒、輸注管路與置入器\"><figcaption>幫浦與輸注組的外觀示意<br><a href=\"https://commons.wikimedia.org/wiki/File:Insulin_pump_and_infusion_set.JPG\" target=\"_blank\" rel=\"noopener\">David-i98 · Public domain</a><br>等比例縮圖，未裁切。<br>歷史型號照片；不代表 AID 或型號推薦。</figcaption></figure><div class=\"photo-copy\"><div class=\"cards\"><article class=\"card \"><h3>Non-AID pump｜C</h3><p>反覆臨床評估，視需求調整 basal rate 與餐時劑量；住院調整尚缺已驗證指引。</p></article><article class=\"card \"><h3>AID｜C</h3><p>通常延續自動模式；除餐時輸入外，盡量減少額外人工介入。</p></article><article class=\"card \"><h3>需求改變時</h3><p>無進食或低血糖風險時，可考慮提高目標或較保守模式；依裝置特性判斷。</p></article></div><div class=\"callout\">額外胰島素原則上透過 pump 給予。出現禁忌或需求超出 AID 能力時，評估改模式或轉換治療。</div></div></div>",
     "pages": [5, 6, 7],
     "notes": "Table 2 提及 exercise mode 等較保守模式；各裝置模式效果不同，不能通用套用。Sleep activity 亦為特定系統功能，本文不把它簡化成所有 AID 的低血糖處理。若 AID 無法維持適當控制，可考慮非自動模式或轉 MDI。",
-    "kind": ""
+    "kind": "photo-slide",
+    "originalSlideNumber": 14
+  },
+  {
+    "section": "原文圖表｜TABLE 2",
+    "title": "Table 2｜Non-AID pump 與 AID 的胰島素治療",
+    "lead": "原文完整圖表 · 完整保留非手術及手術期間的 pump／AID 建議。",
+    "body": "<figure class=\"original-figure\"><button class=\"figure-open\" data-src=\"assets/originals/table-2.png\" data-title=\"Table 2｜Non-AID pump 與 AID 的胰島素治療\" aria-label=\"放大 Table 2\"><img src=\"assets/originals/table-2.png\" alt=\"原文 Table 2：Non-AID pump 與 AID 的胰島素治療，保留完整標題、圖說與註解\"></button><figcaption>點選圖表可放大檢視 · <a href=\"https://inpatient-diabetes-tech-2026.pages.dev/assets/originals/table-2.png\" target=\"_blank\" rel=\"noopener\">開啟高解析原圖 ↗</a></figcaption></figure>",
+    "pages": [7],
+    "notes": "完整保留非手術及手術期間的 pump／AID 建議。 原始內容取自使用者上傳的 dci260091.pdf，完整保留此圖表區域；僅移除圖表以外的頁面內容。英文標籤與原文中的排版／文字保持原樣。© 2026 ADA／EASD。此原圖表不套用照片的 Creative Commons 授權。",
+    "kind": "source-slide",
+    "sourceFigure": "Table 2",
+    "asset": "assets/originals/table-2.png"
   },
   {
     "section": "03｜TRANSITION",
@@ -132,7 +201,19 @@
     "body": "<div class=\"flow\"><article><span>1</span><h3>估算 basal</h3><p>由 pump 設定取得 24 小時基礎量</p></article><article><span>2</span><h3>提前給藥</h3><p>停 pump 前 2 小時皮下注射 basal</p></article><article><span>3</span><h3>停 pump 後</h3><p>以 MDI 搭配餐時／correction；每日調整</p></article></div><div class=\"cards\"><article class=\"card \"><h3>若僅取得 TDD</h3><p>部分 AID 僅顯示總日劑量，可各分 50% 作 basal 與餐時，或依補充資料估算。</p></article><article class=\"card \"><h3>重新啟用</h3><p>禁忌解除後，評估注射 basal 已消退；原文舉約 22 小時為例。</p></article></div>",
     "pages": [8],
     "notes": "Adapted from Table 3。Non-AID 表列最後一次 pen basal 後 22 h 回復正常 basal rate；AID 待注射 basal 作用大致消退，例如 22 h。不能把 22 h 當作每種長效胰島素一律適用的時間；需依已注射藥物、殘餘作用與院內流程評估。突發停機依本地 IV insulin 流程處理，並非等待兩小時。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 15
+  },
+  {
+    "section": "原文圖表｜TABLE 3",
+    "title": "Table 3｜由 pump／AID 轉換至注射治療",
+    "lead": "原文完整圖表 · 完整保留計畫性停用及重新啟用 pump／AID 的條件。",
+    "body": "<figure class=\"original-figure\"><button class=\"figure-open\" data-src=\"assets/originals/table-3.png\" data-title=\"Table 3｜由 pump／AID 轉換至注射治療\" aria-label=\"放大 Table 3\"><img src=\"assets/originals/table-3.png\" alt=\"原文 Table 3：由 pump／AID 轉換至注射治療，保留完整標題、圖說與註解\"></button><figcaption>點選圖表可放大檢視 · <a href=\"https://inpatient-diabetes-tech-2026.pages.dev/assets/originals/table-3.png\" target=\"_blank\" rel=\"noopener\">開啟高解析原圖 ↗</a></figcaption></figure>",
+    "pages": [8],
+    "notes": "完整保留計畫性停用及重新啟用 pump／AID 的條件。 原始內容取自使用者上傳的 dci260091.pdf，完整保留此圖表區域；僅移除圖表以外的頁面內容。英文標籤與原文中的排版／文字保持原樣。© 2026 ADA／EASD。此原圖表不套用照片的 Creative Commons 授權。",
+    "kind": "source-slide",
+    "sourceFigure": "Table 3",
+    "asset": "assets/originals/table-3.png"
   },
   {
     "section": "03｜NPO",
@@ -141,7 +222,8 @@
     "body": "<div class=\"cards\"><article class=\"card \"><h3>胰島素路徑｜E</h3><p>依院內規範使用 insulin infusion；或延續 non-AID pump／AID。</p></article><article class=\"card \"><h3>Non-AID pump｜E</h3><p>可將 basal rate <b>降低 10–25%</b>，不是降到原劑量的 10–25%。</p></article><article class=\"card \"><h3>葡萄糖與營養｜E</h3><p>搭配含 glucose／dextrose 靜脈輸液；NPO >1–2 天時依規範轉腸道或靜脈營養。</p></article></div><div class=\"callout\">新置入 CGM 的前 24 小時，NPO 者 POC 可每 4–6 小時驗證。</div>",
     "pages": [6, 8],
     "notes": "NPO 建議原文第 3 節，POC 頻率原文第 6 節。這裡不自行延伸未給出的輸液濃度、流速或 insulin infusion 劑量。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 16
   },
   {
     "section": "04｜PERIOPERATIVE",
@@ -150,7 +232,8 @@
     "body": "<div class=\"decision\"><div class=\"decision-start\">預估手術與恢復進食</div><div class=\"cards\"><article class=\"card\"><h3>短手術</h3><p><b>最多錯過一餐</b><br>適當條件下可延續 pump／AID。</p></article><article class=\"card danger\"><h3>較長、複雜或可能延長</h3><p>轉為 <b>IV insulin infusion</b><br>依院內規範執行。</p></article></div></div><div class=\"callout\">適當情境可延續 CGM 與 CGM-based dosing（B）；pump／AID 手術分流建議為 C。</div>",
     "pages": [6, 7],
     "notes": "依第 4 節。手術期間 CGM 效益與準確度仍受情境影響，須納入 POC 與臨床評估。此流程為重繪之教學分流。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 17
   },
   {
     "section": "04｜PERIOPERATIVE",
@@ -159,7 +242,8 @@
     "body": "<div class=\"flow\"><article><span>1</span><h3>手術前一天</h3><p>新 infusion set 放在術野之外；備齊耗材</p></article><article><span>2</span><h3>手術前</h3><p>合格人員評估設定；確認儲藥量充足</p></article><article><span>3</span><h3>手術當中</h3><p>可接觸 pump；non-AID basal 每小時或依需要調整</p></article><article><span>4</span><h3>突然停用</h3><p>依院內規範銜接對應 basal rate 的 IV insulin</p></article></div>",
     "pages": [7],
     "notes": "Adapted from Table 2。術中 non-AID 基礎率需每小時或在有臨床需求時調整；不是每小時一律改變劑量。請先明訂由誰監測與下指示。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 18
   },
   {
     "section": "05｜ALARMS",
@@ -168,7 +252,8 @@
     "body": "<div class=\"dose-pair alarms\"><article class=\"low\"><span>Low alarm · 立即警示</span><strong>80</strong><p>mg/dL｜高風險可設更高</p></article><article><span>High alarm</span><strong>250</strong><p>mg/dL｜立即或依裝置設定延遲</p></article></div><div class=\"callout\">兩項警報建議均為 C；urgent low 等不可調警報須保持啟用。</div>",
     "pages": [7],
     "notes": "控制良好、第 1 型或 insulinopenic 第 2 型糖尿病，高值閾值可較低；原本控制不佳者可較高，以降低頻繁警報。80 是預警閾值，不等於低血糖定義。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 19
   },
   {
     "section": "05｜ALARM RESPONSE",
@@ -177,7 +262,8 @@
     "body": "<div class=\"flow\"><article><span>1</span><h3>接收</h3><p>護理站或指定人員看見警報</p></article><article><span>2</span><h3>確認</h3><p>症狀、裝置狀況；必要時 POC</p></article><article><span>3</span><h3>處置</h3><p>低血糖依院內流程；高血糖先查上一劑</p></article><article><span>4</span><h3>記錄</h3><p>警報、回應時間、處置與後續結果</p></article></div><div class=\"callout\">避免隨手看到高值就反覆補打；需訓練警報回應與避免 insulin stacking。</div>",
     "pages": [7, 8, 9, 10],
     "notes": "本頁是依第 5–7 節、Table 4–5 重組的工作流程。原文未規定全院通用的回應分鐘數，應由院內訂定。認知能力足夠的病人也可在警報時通知醫療人員。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 20
   },
   {
     "section": "06｜POC VALIDATION",
@@ -186,7 +272,8 @@
     "body": "<div class=\"cards\"><article class=\"card \"><h3>新置入前 24 小時｜B</h3><p>餐前、睡前、夜間；NPO 時例如每 4–6 小時。感測器暖機期也需 POC。</p></article><article class=\"card \"><h3>血糖極端值｜B</h3><p>CGM <70 mg/dL<br>或 >270 mg/dL<br>出現準確度疑慮時驗證。</p></article><article class=\"card \"><h3>臨床不一致｜B</h3><p>讀值與症狀／病況不符；存在可能的干擾物質。</p></article></div><div class=\"callout\">270 mg/dL 是此段的 POC 驗證情境；250 mg/dL 是高值警報預設。</div>",
     "pages": [8, 9],
     "notes": "第 6 節原文建議新置入前 24 h 作 confirmatory POC；列出的時間為例示，並包括當準確度有疑慮時。暖機期間無可用 CGM 值時以 POC 監測。不能把「24 小時後」解讀成永遠不再需要 POC。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 21
   },
   {
     "section": "06｜DISCREPANCY",
@@ -195,7 +282,8 @@
     "body": "<table><thead><tr><th>CGM 所在範圍</th><th>需評估校正的差異</th></tr></thead><tbody><tr><td>CGM >100 mg/dL</td><td>差異 >20%</td></tr><tr><td>CGM <100 mg/dL</td><td>差異超過 ±20 mg/dL</td></tr></tbody></table><div class=\"flow\"><article><span>1</span><h3>立即判斷</h3><p>依較低讀值引導決策，降低低血糖風險（E）</p></article><article><span>2</span><h3>穩定時校正</h3><p>裝置允許才以 POC 校正（C）</p></article><article><span>3</span><h3>持續不一致</h3><p>更換或停用 CGM（E）</p></article></div>",
     "pages": [8],
     "notes": "原文在 >100 與 <100 間未明訂恰好 100 mg/dL 的邊界，不能自行宣稱原文定義 ≥ 或 ≤。20% 計算細節與該邊界應在院內 protocol 依裝置規範明訂。原文的 lower-reading recommendation 屬專家意見，應合併症狀與重測，不代表忽略可能的量測誤差。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 22
   },
   {
     "section": "06｜INTERFERENCE",
@@ -204,7 +292,8 @@
     "body": "<div class=\"cards\"><article class=\"card \"><h3>藥物／物質</h3><p>超出建議劑量的 acetaminophen、ascorbic acid、hydroxyurea，以及其他還原性物質。</p></article><article class=\"card \"><h3>臨床狀態</h3><p>末梢循環不佳、低血糖、嚴重高血糖、酸中毒、嚴重貧血。</p></article><article class=\"card \"><h3>機械性因素</h3><p>壓迫感測器；翻身、轉送、長期臥床時注意固定與保護。</p></article></div><div class=\"callout\">依型號確認已知干擾；許多住院用藥尚未完成 CGM 干擾測試。</div>",
     "pages": [8, 9],
     "notes": "第 6 節與 Table 4。不可推論所有品牌都受同一藥物干擾，也不能斷言偏差方向必定向高或向低。若懷疑壓迫造成假性低值，仍須評估病人並用 POC 協助確認。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 23
   },
   {
     "section": "06｜STAFF & WORKFLOW",
@@ -213,7 +302,30 @@
     "body": "<div class=\"workflow-grid\"><article><b>1</b><h3>裝置照護</h3><p>置入／移除、部位、暖機、耗材、固定與管路預充。</p></article><article><b>2</b><h3>血糖判讀</h3><p>看曲線與時序；POC 驗證；依 protocol 調整。</p></article><article><b>3</b><h3>警報責任</h3><p>接收人、回應、處置、交班；避免 insulin stacking。</p></article><article><b>4</b><h3>每日再評估</h3><p>自我管理能力、臨床狀態、可否繼續；備妥停機方案。</p></article></div>",
     "pages": [8, 9, 10],
     "notes": "Adapted from Table 4、Figure 3、Table 5。教育訓練建議 C；每日安全性與可行性評估 E。Table 5 要求每日評估自我管理能力，而延續 pump／AID 建議在每次接觸重新評估。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 24
+  },
+  {
+    "section": "原文圖表｜TABLE 4",
+    "title": "Table 4｜住院裝置照護工作流程",
+    "lead": "原文完整圖表 · 完整保留裝置、胰島素調整、警報與記錄工作流程。",
+    "body": "<figure class=\"original-figure\"><button class=\"figure-open\" data-src=\"assets/originals/table-4.png\" data-title=\"Table 4｜住院裝置照護工作流程\" aria-label=\"放大 Table 4\"><img src=\"assets/originals/table-4.png\" alt=\"原文 Table 4：住院裝置照護工作流程，保留完整標題、圖說與註解\"></button><figcaption>點選圖表可放大檢視 · <a href=\"https://inpatient-diabetes-tech-2026.pages.dev/assets/originals/table-4.png\" target=\"_blank\" rel=\"noopener\">開啟高解析原圖 ↗</a></figcaption></figure>",
+    "pages": [9],
+    "notes": "完整保留裝置、胰島素調整、警報與記錄工作流程。 原始內容取自使用者上傳的 dci260091.pdf，完整保留此圖表區域；僅移除圖表以外的頁面內容。英文標籤與原文中的排版／文字保持原樣。© 2026 ADA／EASD。此原圖表不套用照片的 Creative Commons 授權。",
+    "kind": "source-slide",
+    "sourceFigure": "Table 4",
+    "asset": "assets/originals/table-4.png"
+  },
+  {
+    "section": "原文圖表｜FIGURE 3",
+    "title": "Figure 3｜住院糖尿病裝置管理流程",
+    "lead": "原文完整圖表 · 完整保留判斷分支、箭頭與每日評估流程。",
+    "body": "<figure class=\"original-figure\"><button class=\"figure-open\" data-src=\"assets/originals/figure-3.png\" data-title=\"Figure 3｜住院糖尿病裝置管理流程\" aria-label=\"放大 Figure 3\"><img src=\"assets/originals/figure-3.png\" alt=\"原文 Figure 3：住院糖尿病裝置管理流程，保留完整標題、圖說與註解\"></button><figcaption>點選圖表可放大檢視 · <a href=\"https://inpatient-diabetes-tech-2026.pages.dev/assets/originals/figure-3.png\" target=\"_blank\" rel=\"noopener\">開啟高解析原圖 ↗</a></figcaption></figure>",
+    "pages": [9],
+    "notes": "完整保留判斷分支、箭頭與每日評估流程。 原始內容取自使用者上傳的 dci260091.pdf，完整保留此圖表區域；僅移除圖表以外的頁面內容。英文標籤與原文中的排版／文字保持原樣。© 2026 ADA／EASD。此原圖表不套用照片的 Creative Commons 授權。",
+    "kind": "source-slide",
+    "sourceFigure": "Figure 3",
+    "asset": "assets/originals/figure-3.png"
   },
   {
     "section": "07｜EHR INTEGRATION",
@@ -222,7 +334,19 @@
     "body": "<table><thead><tr><th>病歷欄位</th><th>最少應包含</th></tr></thead><tbody><tr><td>裝置與責任</td><td>型號、部位、更換時間、誰操作、manual／AID 模式</td></tr><tr><td>血糖與設定</td><td>重要讀值／統計、目標、basal rate 或 AID 預估基礎量</td></tr><tr><td>劑量調整</td><td>調整依據、basal／餐時／correction、預定重評頻率</td></tr><tr><td>警報與處置</td><td>閾值、回應時間、採取的行動；出院摘要</td></tr></tbody></table><div class=\"callout\">未完成 EHR 整合前，若據此作臨床決策，須人工記錄相關資訊。（E）</div>",
     "pages": [8, 9, 10],
     "notes": "Adapted from Table 5。原文討論住院即時 data push 與門診 data pull 的差異；整合需身份對應、資料權限、網路穩定與監測責任。此網站為教學工具，不收集病人資料，也不是即時監測系統。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 25
+  },
+  {
+    "section": "原文圖表｜TABLE 5",
+    "title": "Table 5｜電子病歷的記錄項目",
+    "lead": "原文完整圖表 · 完整保留裝置、血糖、調整方式及警報記錄項目。",
+    "body": "<figure class=\"original-figure\"><button class=\"figure-open\" data-src=\"assets/originals/table-5.png\" data-title=\"Table 5｜電子病歷的記錄項目\" aria-label=\"放大 Table 5\"><img src=\"assets/originals/table-5.png\" alt=\"原文 Table 5：電子病歷的記錄項目，保留完整標題、圖說與註解\"></button><figcaption>點選圖表可放大檢視 · <a href=\"https://inpatient-diabetes-tech-2026.pages.dev/assets/originals/table-5.png\" target=\"_blank\" rel=\"noopener\">開啟高解析原圖 ↗</a></figcaption></figure>",
+    "pages": [10],
+    "notes": "完整保留裝置、血糖、調整方式及警報記錄項目。 原始內容取自使用者上傳的 dci260091.pdf，完整保留此圖表區域；僅移除圖表以外的頁面內容。英文標籤與原文中的排版／文字保持原樣。© 2026 ADA／EASD。此原圖表不套用照片的 Creative Commons 授權。",
+    "kind": "source-slide",
+    "sourceFigure": "Table 5",
+    "asset": "assets/originals/table-5.png"
   },
   {
     "section": "08｜IMAGING",
@@ -231,7 +355,8 @@
     "body": "<div class=\"cards\"><article class=\"card \"><h3>CGM</h3><p>部分型號可於 X-ray／CT 保留；MRI 證據較少，不能全品牌通用。</p></article><article class=\"card \"><h3>原文裝置例子</h3><p>Libre 2／3：原文引述可保留進行影像；MRI 期間可能受影響，約 1 h 後恢復。</p></article><article class=\"card \"><h3>Pump／AID</h3><p>MRI 前移除 pump 與金屬 cannula，並規劃替代胰島素供應。</p></article></div><div class=\"callout\">Eversense：原文描述移除 transmitter 後可接受 X-ray／CT／MRI。仍須核對型號、地區仿單與檢查條件。</div>",
     "pages": [10],
     "notes": "原文描述的是當時特定裝置的資料，並非所有地區、型號皆有相同核准。檢查前確認 CGM、transmitter、pump、infusion set 各組件；不要將 CGM 的可保留條件套用到 pump。原文亦提 X-ray／CT 時以鉛衣覆蓋 pump 的建議，但總原則仍是 manufacturer-specific guidance；本頁不把鉛衣當成可通用的安全保證。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 26
   },
   {
     "section": "09｜DISCHARGE",
@@ -240,7 +365,8 @@
     "body": "<div class=\"split\"><div class=\"feature\"><small>CGM 出院銜接｜E</small><h3 class=\"huge\">2 <em>週</em></h3><p>約 2 週內門診回診<br>讓裝置連結至門診團隊，能檢視資料。</p></div><div><div class=\"cards\"><article class=\"card \"><h3>重新整理治療</h3><p>納入住院的低／高血糖、HbA1c、資源、心腎共病與治療反應。</p></article><article class=\"card \"><h3>共同決策</h3><p>依門診確認的 dysglycemia、當地指引與給付，評估常規 CGM。</p></article></div></div></div>",
     "pages": [10],
     "notes": "第 9 節建議將 CGM 偵測到的低血糖與高血糖納入 discharge plan。不能僅以住院數值決定永久裝置處方；需門診再評估。約 2 週並非所有病人不可調整的固定日期。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 27
   },
   {
     "section": "09｜DISCHARGE",
@@ -249,7 +375,8 @@
     "body": "<div class=\"flow\"><article><span>1</span><h3>出院前</h3><p>交接模式、設定、住院事件與處置</p></article><article><span>2</span><h3>居家銜接</h3><p>確認耗材、資料共享與追蹤安排</p></article><article><span>3</span><h3>門診再調整</h3><p>急性病況消退、恢復平常活動後最佳化</p></article></div><div class=\"callout\">此為原文理想時機（E）；住院期間必要的安全調整仍須即時處理。</div>",
     "pages": [9, 10],
     "notes": "依 Table 5 與第 9 節重組的教學交班流程。原文建議 ideally 在急性病況解除並恢復平常活動後調整 pump／AID 設定，不是禁止住院期間必要調整。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 28
   },
   {
     "section": "TAKE-HOME｜臨床速記",
@@ -258,15 +385,17 @@
     "body": "<div class=\"recap\"><article><b>0%</b><p>TBR <70<br>低血糖優先避免</p></article><article><b>80 / 250</b><p>mg/dL<br>低／高警報預設</p></article><article><b>>3 / >4 h</b><p>速效／regular<br>correction 間隔</p></article><article><b>約 2 週</b><p>CGM 出院後<br>門診銜接</p></article></div><div class=\"callout\">POC 驗證與差異處理是安全基礎；pump 停用、手術與影像都須先安排替代計畫。</div>",
     "pages": [5, 7, 8, 9, 10],
     "notes": "這是原文關鍵數字的複習，不是完整的院內醫囑組。臨床應回到對應章節與院內流程，並保留各建議的適用條件。",
-    "kind": ""
+    "kind": "",
+    "originalSlideNumber": 29
   },
   {
     "section": "REFERENCE｜原文與延伸閱讀",
     "title": "回到原文，帶著脈絡使用數字",
-    "lead": "本網站為繁體中文教學改編；圖表均重新設計。",
+    "lead": "中文教學重繪與原文圖表對照；照片來源與授權均已註明。",
     "body": "<div class=\"reference-layout\"><div><p class=\"authors\">Olsen MT, Spanakis EK, Thabit H, Dhatariya K, Mustafa OG, Avari P, Lumb AN, Dungan K, Philis-Tsimikas A, Kulasa K, O’Neal DN, Joshi SR, Liarakos AL, Wilmot EG, Shaw JLV, Vangoitsenhoven R, Mathieu C, Hirsch IB, Vellanki P, Pasquel FJ, Umpierrez G, Galindo RJ, Pedersen-Bjergaard U, Kristensen PL, Mader JK, Nørgaard K.</p><p class=\"paper-title\">An International Position Statement on Practical Approaches for Inpatient Continuous Glucose Monitoring, Insulin Pumps, and Automated Insulin Delivery Systems in Adults.</p><p><i>Diabetes Care.</i> 2026. Published online September 22, 2026; dci26-0091.</p><p><a href=\"https://doi.org/10.2337/dci26-0091\" target=\"_blank\" rel=\"noopener\">DOI: 10.2337/dci26-0091 ↗</a></p><p class=\"ref-small\">同時發表於 Diabetologia：10.1007/s00125-026-06838-8<br>補充資料：<a href=\"https://doi.org/10.2337/figshare.32648427\" target=\"_blank\" rel=\"noopener\">10.2337/figshare.32648427 ↗</a></p></div><aside><img class=\"qr\" src=\"assets/site-qr.png\" alt=\"掃描開啟本教學網站\"><p>手機開啟教學網站</p><a href=\"https://inpatient-diabetes-tech-2026.pages.dev/inpatient-diabetes-technology.pdf\" download>下載 PDF 講義 ↓</a></aside></div>",
     "pages": [2, 3],
-    "notes": "頁碼對照：上傳 PDF 第 1 頁為 graphical abstract；PDF 第 2–14 頁對應原文頁碼 1–13。本網站每頁同時標註 PDF 與原文頁碼。第 11 張另摘要同篇論文 Supplementary Material 2（補充 PDF 第 2 頁）。整理日期 2026-09-27。",
-    "kind": ""
+    "notes": "頁碼對照：上傳 PDF 第 1 頁為 graphical abstract；PDF 第 2–14 頁對應原文頁碼 1–13。本網站每頁同時標註 PDF 與原文頁碼。第 15 張另摘要同篇論文 Supplementary Material 2（補充 PDF 第 2 頁）。整理日期 2026-09-27。 原圖表目錄與照片授權請見 images-and-sources.html。",
+    "kind": "",
+    "originalSlideNumber": 30
   }
 ]
